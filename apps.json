@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "260825162004",
+          "date": "2026-08-25",
+          "localizedDescription": "Tighter oasis icon: palm cluster centered.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260825162004/Riad-0.1.0-260825162004.ipa",
+          "size": 15309637,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "260825153052",
           "date": "2026-08-25",
           "localizedDescription": "Oasis app icon from the real photograph, replacing the glass glyph.",
