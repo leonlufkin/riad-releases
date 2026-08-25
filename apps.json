@@ -1,0 +1,36 @@
+{
+  "name": "Riad",
+  "subtitle": "The riad home-server client.",
+  "description": "Signed, immutable iPhone releases of Riad.",
+  "iconURL": "https://raw.githubusercontent.com/leonlufkin/riad-releases/main/Riad.png",
+  "website": "https://github.com/leonlufkin/riad-releases",
+  "tintColor": "#0088FF",
+  "apps": [
+    {
+      "name": "Riad",
+      "bundleIdentifier": "com.leonlufkin.riad.ios",
+      "developerName": "Leon Lufkin",
+      "subtitle": "Your home server, services, and briefing.",
+      "localizedDescription": "Riad is the native client for the mini's private dashboard: service health, restarts, logs, the news digest, and the morning briefing.",
+      "iconURL": "https://raw.githubusercontent.com/leonlufkin/riad-releases/main/Riad.png",
+      "tintColor": "#0088FF",
+      "category": "developer",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "260824235309",
+          "date": "2026-08-24",
+          "localizedDescription": "First Riad release: Base-style minimal UI, briefing, news digests, service controls, and this update channel.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260824235309/Riad-0.1.0-260824235309.ipa",
+          "size": 17535451,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
