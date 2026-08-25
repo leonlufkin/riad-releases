@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "260825153052",
+          "date": "2026-08-25",
+          "localizedDescription": "Oasis app icon from the real photograph, replacing the glass glyph.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260825153052/Riad-0.1.0-260825153052.ipa",
+          "size": 14815149,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "260824235309",
           "date": "2026-08-24",
           "localizedDescription": "First Riad release: Base-style minimal UI, briefing, news digests, service controls, and this update channel.",
