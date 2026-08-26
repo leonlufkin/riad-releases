@@ -5,7 +5,6 @@
   "iconURL": "https://raw.githubusercontent.com/leonlufkin/riad-releases/main/Riad.png",
   "website": "https://github.com/leonlufkin/riad-releases",
   "tintColor": "#0088FF",
-  "latestDownloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260825162004/Riad-0.1.0-260825162004.ipa",
   "apps": [
     {
       "name": "Riad",
