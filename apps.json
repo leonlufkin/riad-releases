@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "260827013010",
+          "date": "2026-08-27",
+          "localizedDescription": "KOAR winds-aloft widget: surface, 925, 850, 700 hPa from GFS, home screen and Lock Screen families.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260827013010/Riad-0.1.0-260827013010.ipa",
+          "size": 15403284,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "260825162004",
           "date": "2026-08-25",
           "localizedDescription": "Tighter oasis icon: palm cluster centered.",
