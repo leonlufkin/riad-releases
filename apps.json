@@ -19,6 +19,15 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "260827225357",
+          "date": "2026-08-27",
+          "localizedDescription": "Winds in Marina: mph, altitude rows, cleaner layout.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260827225357/Riad-0.1.0-260827225357.ipa",
+          "size": 15404327,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "260827015915",
           "date": "2026-08-27",
           "localizedDescription": "Show the installed build in connection settings; KOAR winds widget.",
