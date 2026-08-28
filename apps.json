@@ -1,5 +1,6 @@
 {
   "name": "Riad",
+  "identifier": "com.leonlufkin.riad.source",
   "subtitle": "The riad home-server client.",
   "description": "Signed, immutable iPhone releases of Riad.",
   "iconURL": "https://raw.githubusercontent.com/leonlufkin/riad-releases/main/Riad.png",
