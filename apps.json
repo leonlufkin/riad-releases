@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.1.3",
+          "buildVersion": "260828030103",
+          "date": "2026-08-28",
+          "localizedDescription": "Winds in Marina: two-column medium, direction column dropped for space.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.3-260828030103/Riad-0.1.3-260828030103.ipa",
+          "size": 15462192,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.2",
           "buildVersion": "260828024609",
           "date": "2026-08-28",
