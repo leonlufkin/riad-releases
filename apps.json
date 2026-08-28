@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.1.2",
+          "buildVersion": "260828024609",
+          "date": "2026-08-28",
+          "localizedDescription": "Winds in Marina: today's forecast from 8am and the next three days (large widget).",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.2-260828024609/Riad-0.1.2-260828024609.ipa",
+          "size": 15452594,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.1",
           "buildVersion": "260827230937",
           "date": "2026-08-27",
