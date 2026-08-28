@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.1.1",
+          "buildVersion": "260827230937",
+          "date": "2026-08-27",
+          "localizedDescription": "Winds in Marina widget: mph, altitude rows, cleaner layout.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.1-260827230937/Riad-0.1.1-260827230937.ipa",
+          "size": 15404313,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "260827225357",
           "date": "2026-08-27",
