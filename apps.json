@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.1.5",
+          "buildVersion": "260903013931",
+          "date": "2026-09-03",
+          "localizedDescription": "Restores private Scribe connectivity through the Base tailnet proxy and adds a one-tap Control Center dictation control on iOS 18 and later.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.5-260903013931/Riad-0.1.5-260903013931.ipa",
+          "size": 15583875,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.4",
           "buildVersion": "260902233407",
           "date": "2026-09-02",
