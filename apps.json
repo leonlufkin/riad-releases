@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "260903033213",
+          "date": "2026-09-03",
+          "localizedDescription": "Make integrated Scribe visible in persistent navigation, deep-link App Shortcuts directly into recording, stop dashboard setup from blocking dictation, and omit the SideStore-incompatible widget extension.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.6-260903033213/Riad-0.1.6-260903033213.ipa",
+          "size": 15452076,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "260903013931",
           "date": "2026-09-03",
