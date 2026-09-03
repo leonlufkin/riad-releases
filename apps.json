@@ -11,12 +11,21 @@
       "name": "Riad",
       "bundleIdentifier": "com.leonlufkin.riad.ios",
       "developerName": "Leon Lufkin",
-      "subtitle": "Your home server, services, and briefing.",
-      "localizedDescription": "Riad is the native client for the mini's private dashboard: service health, restarts, logs, the news digest, and the morning briefing.",
+      "subtitle": "Home server, private dictation, and briefing.",
+      "localizedDescription": "Riad is the native client for the mini's private dashboard, service controls, news and morning briefing, and Scribe dictation through the Mac mini's local WhisperKit model.",
       "iconURL": "https://raw.githubusercontent.com/leonlufkin/riad-releases/main/Riad.png",
       "tintColor": "#0088FF",
       "category": "developer",
       "versions": [
+        {
+          "version": "0.1.4",
+          "buildVersion": "260902233407",
+          "date": "2026-09-02",
+          "localizedDescription": "Folds Scribe into Riad: private foreground dictation through the Mac mini, Dictate with Riad shortcut activation, explicit Copy and Share, and one combined SideStore install.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.4-260902233407/Riad-0.1.4-260902233407.ipa",
+          "size": 15569482,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.3",
           "buildVersion": "260828030103",
@@ -101,7 +110,9 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Riad records voice for its Scribe page, then sends the recording over your private Tailscale network to your Mac mini for local transcription."
+        }
       }
     }
   ],
